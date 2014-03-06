@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+body{
+	font-family: helvetica, arial, sans-serif;;
+	background: #C8C8C8; 
+	line-height: 1.4;}
+
+#page{
+	margin: 0 auto;
+	max-width: 1024px;
+	background: white;}
+
+p{
+	margin: 32px;
+	margin: 3.2%;	
+}
+
+#header img{
+	margin-top: 32px;
+	margin-top: 3.2%;
+	max-width: 100%;
+	height: auto;
+	}
+
+.box{
+	display: inline-block;
+	vertical-align: top;
+	width: 280px;
+	height: auto;
+	margin: 0 0 32px 32px;
+	margin: 0 0 3.2% 3.2%;		
+	}
+	
+.box img{
+	width: 280px;
+	height: auto;
+	}
+	
+a.box{
+	color: black;
+	text-decoration: none;
+	}
+a img{
+		border: none;}
+a.box:hover{
+	text-decoration: underline;
+	color: red;
+	}
+	
